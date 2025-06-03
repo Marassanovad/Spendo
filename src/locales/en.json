@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "main": "Home",
+    "categories": "Categories/Transactions",
+    "about": "About Me"
+  },
+  "dashboard": {
+    "income": "Income",
+    "expense": "Expense",
+    "all": "Total",
+    "balance": "Balance",
+    "modal": {
+      "balance": "Balance is calculated automatically",
+      "input": "Enter or select a category",
+      "sum": "Amount",
+      "inputsum": "Enter amount",
+      "type": "Type",
+      "save": "Save",
+      "newcategory": "New Category",
+      "example": "For example, Cafe",
+      "typecategory": "Category Type",
+      "add": "Add",
+      "incomeTitle": "Add Income",
+      "expenseTitle": "Add Expense",
+      "balanceTitle": "Balance Info"
+    },
+    "chart": {
+      "pie": "Pie Chart",
+      "bar": "Bar Chart",
+      "line": "Line Chart"
+    }
+  },
+  "categories": {
+    "type": "Type",
+    "category": "Category",
+    "amount": "Amount",
+    "date": "Date",
+    "popup": {
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "text": "Are you sure you want to delete this transaction?"
+    }
+  },
+  "about": {
+    "greeting": "Hello 👋",
+    "name": "My name is Darya Marassanova, I am from Almaty, Kazakhstan. I am a beginner developer, studying at Satbayev University in the field of \"Mechanics\".",
+    "passion": "I am passionate about web development, especially frontend. I have completed several specialized courses — from Python to Most Singularity Frontend at Jusan Bank. I work with tools such as React, Vue.js, Python, Java, JavaScript, TypeScript.",
+    "experience": "I have commercial experience — I work as a frontend developer at a startup, where I create interfaces, integrate with APIs, and optimize user experience. At the same time, I develop pet projects, participate in team developments, constantly improve my skills, and love solving non-standard problems.",
+    "contacts": "Contacts",
+    "skills": "Skills"
+  }
+}
